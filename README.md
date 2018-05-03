@@ -20,10 +20,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/R
 #### *All sites use the channel `Twitch` as an example when linking to a channel specific pages.*
 
 * [SocialBlade](https://socialblade.com/twitch/user/twitch) - Tracks statistics over time, mainly focusing on tracking followers & channel views over time. It also has Future Projections and a Live Follower Count page.
-* [Twinge](http://twinge.tv/channels/twitch) - Tracks statistics over time (of channels with 15 or more viewers). Has vast amounts of information about Viewership, Past Broadcasts, Games streamed and Channel Growth. Also has a review system allowing viewers to leave Reviews for channels based on "Skill, Humor & Interaction".
-* [TwitchTracker](https://twitchtracker.com/twitch) - Tracks statistics over time. Has a very easy to use UI, and easy to look at graphs/information. Displays recent data as an Overview. Also has dedicated pages for "Streams, Games, Statistics & Clips", as well as a link to the Twitch channel.
 * [Sullygnome](https://sullygnome.com/channel/twitch) - Tracks statistics over time. Has a 7 day overview with information boxes and detailed graphs. As well as offering this summary, it has dedicated pages for "Streams, Games, Activity, Calendar, Game picker, A comparison tool, Long term tracking & Reports (yearly & monthly)"
+* [Twinge](http://twinge.tv/channels/twitch) - Tracks statistics over time (of channels with 15 or more viewers). Has vast amounts of information about Viewership, Past Broadcasts, Games streamed and Channel Growth. Also has a review system allowing viewers to leave Reviews for channels based on "Skill, Humor & Interaction".
 * [TwitchTools](https://www.twitchtools.com/channel/twitch) - Tracks basic channel information & follower/viewer statistics over time. Doesn't offer as much data as many of the other pages listed.
+* [TwitchTracker](https://twitchtracker.com/twitch) - Tracks statistics over time. Has a very easy to use UI, and easy to look at graphs/information. Displays recent data as an Overview. Also has dedicated pages for "Streams, Games, Statistics & Clips", as well as a link to the Twitch channel.
+
 
 ## License
 
