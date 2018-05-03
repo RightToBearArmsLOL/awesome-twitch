@@ -1,6 +1,6 @@
 # Awesome Twitch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Twitch related websites & resources.
+A curated list of awesome Twitch related websites & resources. **(Work in progress)**
 
 ### Contributing
 
