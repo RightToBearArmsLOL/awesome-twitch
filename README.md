@@ -17,7 +17,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/R
 
 ## Channel Stats & Information 
 
-#### *All sites use the channel `Twitch` as an example when linking to a channel specific pages.*
+#### *All sites use the channel `Twitch` as an example when linking to channel specific pages.*
 
 * [SocialBlade](https://socialblade.com/twitch/user/twitch) - Tracks statistics over time, mainly focusing on tracking followers & channel views over time. It also has Future Projections and a Live Follower Count page.
 * [Sullygnome](https://sullygnome.com/channel/twitch) - Tracks statistics over time. Has a 7 day overview with information boxes and detailed graphs. As well as offering this summary, it has dedicated pages for "Streams, Games, Activity, Calendar, Game picker, A comparison tool, Long term tracking & Reports (yearly & monthly)"
