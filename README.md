@@ -10,8 +10,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/R
 
 ### Contents
 
-- Awesome Twitch
-   - Channel Stats & Information
+- [Awesome Twitch](#awesome-twitch-)
+   - [Channel Stats & Information](#channel-stats--information)
 
 - - -
 
